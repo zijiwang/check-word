@@ -1,0 +1,4 @@
+#配置html资源路径
+spring:
+  thymeleaf:
+    prefix: classpath:static/
